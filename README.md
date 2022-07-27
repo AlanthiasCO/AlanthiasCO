@@ -1,1 +1,1 @@
-# Hi, i'm Alan :smiley:	:hugs:	
+# Hi, i'm Alan :wave:	:hugs:	
