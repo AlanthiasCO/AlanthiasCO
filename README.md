@@ -1,4 +1,4 @@
-# Hi, i'm Alan :wave:
+# Olá, eu me chamo Alan :wave:
 
 ##### • :mortar_board: Acadêmico de Graduação em Licenciatura em Computação pela Universidade Federal do Paraná - [UFPR](https://www.ufpr.br/portalufpr/)
 ##### • :notebook: Sou bolsista no projeto de extensão [Por Dentro do Computador](https://www.sbc.org.br/2-uncategorised/2108-por-dentro-do-computador): uma experiência de popularização da Arquitetura de Computadores.
