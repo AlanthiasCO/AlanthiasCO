@@ -9,6 +9,3 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 </div>
-
-
-  ![@AlanthiasCO #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AlanthiasCO)  
