@@ -10,7 +10,6 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 </div>
 
-## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@AlanthiasCO/30-nites-of-code)  
   ![@AlanthiasCO #30NitesOfCode](https://www.codedex.io/api/petStatus?user=AlanthiasCO)
   
