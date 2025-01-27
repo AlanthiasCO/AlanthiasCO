@@ -5,8 +5,9 @@ Meu nome é Alan Mathias, estou cursando o último período do curso de Computa�
 
 Sou bolsista de iniciação tecnológica (PIBITI) pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
 
-Atuo no desenvolvimento de soluções para problemas complexos, como o reconhecimento de padrões, utilizando modelos de Deep Learning, com ênfase em Redes Neurais Convolucionais (CNNs).
+Atuo no desenvolvimento de soluções para problemas, como reconhecimento de padrões e processamento de linguaguem natural, utilizando modelos de Deep Learning, com ênfase em Redes Neurais Convolucionais (CNNs).
 
+Acesse as minhas publicações academicas: 
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
