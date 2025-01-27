@@ -7,7 +7,7 @@ Sou bolsista de iniciação tecnológica (PIBITI) pelo Conselho Nacional de Dese
 
 Atuo no desenvolvimento de soluções para problemas, como reconhecimento de padrões e processamento de linguaguem natural, utilizando modelos de Deep Learning, com ênfase em Redes Neurais Convolucionais (CNNs).
 
-Acesse as minhas publicações academicas: 
+Acesse minhas publicações acadêmicas: [Perfil Research Gate](https://www.researchgate.net/profile/Alan-Mathias?ev=hdr_xprf)
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
