@@ -1,13 +1,6 @@
 
 ## Olá!👋
 
-Meu nome é Alan Mathias, estou cursando o último período do curso de Computação na Universidade Federal do Paraná (UFPR).
-
-Sou bolsista de iniciação tecnológica (PIBITI) pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq).
-
-Atuo no desenvolvimento de soluções para problemas, como reconhecimento de padrões e processamento de linguaguem natural, utilizando modelos de Deep Learning, com ênfase em Redes Neurais Convolucionais (CNNs).
-
-
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
